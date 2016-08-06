@@ -1,0 +1,10 @@
+D:\sent\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\sent\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\sent\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\sent\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\sent\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\sent\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\sent\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\sent\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\sent\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\sent\WindowsApplication1\obj\Debug\WindowsApplication1.FrmBlackList.resources

@@ -1,0 +1,22 @@
+D:\sent\WindowsApplication1\bin\Debug\BlackList.exe
+D:\sent\WindowsApplication1\bin\Debug\BlackList.exe.config
+D:\sent\WindowsApplication1\obj\Debug\BlackList.FrmBlackList.resources
+D:\sent\WindowsApplication1\obj\Debug\BlackList.FrmCardIdentity.resources
+D:\sent\WindowsApplication1\obj\Debug\BlackList.FrmCardSearch.resources
+D:\sent\WindowsApplication1\obj\Debug\BlackList.FrmIdentityKind.resources
+D:\sent\WindowsApplication1\obj\Debug\BlackList.FrmMain.resources
+D:\sent\WindowsApplication1\obj\Debug\BlackList.FrmSqlAuthintication.resources
+D:\sent\WindowsApplication1\obj\Debug\BlackList.Resources.resources
+D:\sent\WindowsApplication1\obj\Debug\BlackList.vbproj.GenerateResource.Cache
+D:\sent\WindowsApplication1\obj\Debug\BlackList.exe
+D:\sent\WindowsApplication1\obj\Debug\BlackList.xml
+D:\sent\WindowsApplication1\obj\Debug\BlackList.pdb
+D:\sent\WindowsApplication1\bin\Debug\BlackList.pdb
+D:\sent\WindowsApplication1\bin\Debug\BlackList.xml
+D:\sent\WindowsApplication1\obj\Debug\BlackList.vbprojResolveAssemblyReference.cache
+D:\sent\WindowsApplication1\obj\Debug\BlackList.FrmLogin.resources
+D:\sent\WindowsApplication1\obj\Debug\BlackList.FrmDocumation.resources
+D:\sent\WindowsApplication1\obj\Debug\BlackList.FrmViewImage.resources
+E:\Other Project\WindowsApplication1\bin\Debug\BlackList.exe.config
+E:\Other Project\WindowsApplication1\obj\Debug\BlackList.exe
+E:\Other Project\WindowsApplication1\obj\Debug\BlackList.xml

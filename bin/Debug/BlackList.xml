@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BlackList
+</name>
+</assembly>
+<members>
+<member name="F:BlackList.DataSaver.oControl">
+	<summary>
+ This class was designed when I had a user approach me and ask me to save all of the data on her windows form and automatically
+ fill the form back in with the same data when she opened it next time.  It handles most every type of user control (textbox,
+ combobox, radiobuttons, and checkboxes.
+ 
+ To use the class, simply add a line like this one to your form..
+ DIM MyFormManager as New DataSaver
+ 
+ In the constructor of the form, call ...
+ MyFormManager.LoadCriteria(Me) 
+ to bring in all of the XML it saved for that form.
+ 
+ In the form's closing event, call
+ MyFormManager.SaveCriteria(Me)
+ This will save all of the info to a file called ...
+ \Documents and Settings\(USERNAME)\Local Settings\Application Data\(APPNAME)\(PROJECT)\(Build #)
+ 
+ You can also enable/disable specific types of controls to save data for by setting any of the properties in this class
+ to false.
+ </summary>
+	<remarks>Copyright 2006 Jim Evans
+ This code may be reproduced, modified, and redistributed without any financial liabilities to Jim Evans.  All he asks is that
+ you continue to leave the initial copyright intact.  Thanks
+</remarks>
+</member><member name="P:BlackList.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BlackList.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:BlackList.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
